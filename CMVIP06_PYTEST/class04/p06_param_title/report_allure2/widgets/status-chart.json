@@ -1,0 +1,31 @@
+[ {
+  "uid" : "3ad408a0d70ad9b5",
+  "name" : "test_login[输入正确账号A，密码，登陆]",
+  "time" : {
+    "start" : 1653569175404,
+    "stop" : 1653569175405,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bc645fda83bef46",
+  "name" : "test_login[输入错误账号B，密码，登陆]",
+  "time" : {
+    "start" : 1653569175408,
+    "stop" : 1653569175409,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc346a4a28e4fd3",
+  "name" : "test_login[输入正确账号C，密码，登陆]",
+  "time" : {
+    "start" : 1653569175532,
+    "stop" : 1653569175533,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

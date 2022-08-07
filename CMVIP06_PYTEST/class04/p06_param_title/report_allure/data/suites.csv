@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu May 26 20:35:09 CST 2022","Thu May 26 20:35:09 CST 2022","0","","test_a","","","","test_login[test_input1-failed!]"," 测试登陆用例"
+"passed","Thu May 26 20:35:09 CST 2022","Thu May 26 20:35:09 CST 2022","0","","test_a","","","","test_login[test_input2-success!]"," 测试登陆用例"
+"passed","Thu May 26 20:35:09 CST 2022","Thu May 26 20:35:09 CST 2022","0","","test_a","","","","test_login[test_input0-success!]"," 测试登陆用例"

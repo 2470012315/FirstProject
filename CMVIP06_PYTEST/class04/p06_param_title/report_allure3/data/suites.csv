@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu May 26 20:49:55 CST 2022","Thu May 26 20:49:55 CST 2022","0","","test_a_title","","","","用例描述，测试输入:{'username': 'xu', 'password': '111111'}"," 测试登陆用例"
+"passed","Thu May 26 20:49:55 CST 2022","Thu May 26 20:49:55 CST 2022","1","","test_a_title","","","","用例描述，测试输入:{'username': 'zz', 'password': '123456'}"," 测试登陆用例"
+"passed","Thu May 26 20:49:55 CST 2022","Thu May 26 20:49:55 CST 2022","0","","test_a_title","","","","用例描述，测试输入:{'username': 'qs', 'password': '123456'}"," 测试登陆用例"

@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-IT6V6FE6",
+    "children" : [ {
+      "name" : "10436-MainThread",
+      "children" : [ {
+        "name" : "test_cart_login",
+        "uid" : "ba586f0c92b2132a",
+        "parentUid" : "25375a207cf94602215a12038e335981",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1653830030418,
+          "stop" : 1653830030418,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case_login2",
+        "uid" : "ee9c18a5f7e5f5d0",
+        "parentUid" : "25375a207cf94602215a12038e335981",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653830036309,
+          "stop" : 1653830038289,
+          "duration" : 1980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "25375a207cf94602215a12038e335981"
+    } ],
+    "uid" : "9a45e8c701c5b72e1afd09e8853cad3f"
+  } ]
+}

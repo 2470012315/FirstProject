@@ -1,0 +1,41 @@
+[ {
+  "uid" : "85f457d5ebdcfb7c",
+  "name" : "test_cart_login",
+  "time" : {
+    "start" : 1653833095845,
+    "stop" : 1653833095845,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f60b30367022258a",
+  "name" : "test_case_pay",
+  "time" : {
+    "start" : 1653833116110,
+    "stop" : 1653833129230,
+    "duration" : 13120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb0970a52e1774ae",
+  "name" : "test_case_login2",
+  "time" : {
+    "start" : 1653833095849,
+    "stop" : 1653833095849,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b1972af46c907631",
+  "name" : "test_case_login3",
+  "time" : {
+    "start" : 1653833101760,
+    "stop" : 1653833109801,
+    "duration" : 8041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

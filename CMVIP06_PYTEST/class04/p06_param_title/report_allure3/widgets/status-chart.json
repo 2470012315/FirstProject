@@ -1,0 +1,31 @@
+[ {
+  "uid" : "42409c112e5be6c9",
+  "name" : "用例描述，测试输入:{'username': 'xu', 'password': '111111'}",
+  "time" : {
+    "start" : 1653569395189,
+    "stop" : 1653569395189,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "146ba08dec892d6a",
+  "name" : "用例描述，测试输入:{'username': 'zz', 'password': '123456'}",
+  "time" : {
+    "start" : 1653569395183,
+    "stop" : 1653569395184,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6a49b2fba83b010",
+  "name" : "用例描述，测试输入:{'username': 'qs', 'password': '123456'}",
+  "time" : {
+    "start" : 1653569395316,
+    "stop" : 1653569395316,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

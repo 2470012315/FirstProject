@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Sun May 29 21:39:48 CST 2022","Sun May 29 21:39:48 CST 2022","0","test_case","test_taobao","","","","test_case_login2",""
+"skipped","Sun May 29 21:39:48 CST 2022","Sun May 29 21:39:48 CST 2022","0","test_case","test_taobao","","","","test_cart_login",""
+"passed","Sun May 29 21:39:54 CST 2022","Sun May 29 21:39:56 CST 2022","1952","test_case","test_taobao","","","","test_case_login3",""

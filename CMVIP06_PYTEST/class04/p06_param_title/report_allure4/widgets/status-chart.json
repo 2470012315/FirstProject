@@ -1,0 +1,31 @@
+[ {
+  "uid" : "185e47ec9f398df4",
+  "name" : "输入正确账号，密码登陆{'username': 'zz', 'password': '123456'}",
+  "time" : {
+    "start" : 1653569679263,
+    "stop" : 1653569679264,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a02e30687d4e69b0",
+  "name" : "输入正确账号，密码登陆{'username': 'qs', 'password': '123456'}",
+  "time" : {
+    "start" : 1653569679400,
+    "stop" : 1653569679400,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b4f9a94ecaadf82",
+  "name" : "输入错误账号，密码登陆{'username': 'xu', 'password': '111111'}",
+  "time" : {
+    "start" : 1653569679269,
+    "stop" : 1653569679270,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

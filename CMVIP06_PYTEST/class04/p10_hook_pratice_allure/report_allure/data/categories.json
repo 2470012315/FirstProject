@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '狗狗币_百度搜索' == '11狗狗币_百度搜索'\n  - 11狗狗币_百度搜索\n  ? --\n  + 狗狗币_百度搜索",
+      "children" : [ {
+        "name" : "test_baidu_case01",
+        "uid" : "6d2bcf9e6857db37",
+        "parentUid" : "f026a8ff5c624812fbc0f0930fdeb651",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653574823026,
+          "stop" : 1653574830134,
+          "duration" : 7108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f026a8ff5c624812fbc0f0930fdeb651"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

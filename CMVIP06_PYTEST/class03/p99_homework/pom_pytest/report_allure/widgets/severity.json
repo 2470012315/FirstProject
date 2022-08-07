@@ -1,0 +1,31 @@
+[ {
+  "uid" : "a39adb05df44fc23",
+  "name" : "test_baidu_search_case1[data2]",
+  "time" : {
+    "start" : 1653652744104,
+    "stop" : 1653652747206,
+    "duration" : 3102
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5905c418b535263b",
+  "name" : "test_baidu_search_case1[data1]",
+  "time" : {
+    "start" : 1653652736859,
+    "stop" : 1653652740183,
+    "duration" : 3324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f439b153c6bf3f1",
+  "name" : "test_baidu_search_case1[data0]",
+  "time" : {
+    "start" : 1653652729518,
+    "stop" : 1653652732770,
+    "duration" : 3252
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

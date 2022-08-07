@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri May 27 19:59:04 CST 2022","Fri May 27 19:59:07 CST 2022","3102","case","test_case","TestBaidu","","","test_baidu_search_case1[data2]",""
+"failed","Fri May 27 19:58:49 CST 2022","Fri May 27 19:58:52 CST 2022","3252","case","test_case","TestBaidu","","","test_baidu_search_case1[data0]",""
+"passed","Fri May 27 19:58:56 CST 2022","Fri May 27 19:59:00 CST 2022","3324","case","test_case","TestBaidu","","","test_baidu_search_case1[data1]",""

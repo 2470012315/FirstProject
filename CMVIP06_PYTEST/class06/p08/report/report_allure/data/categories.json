@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"J_SelectAll1\"]\"}\n  (Session info: chrome=102.0.5005.63)",
+      "children" : [ {
+        "name" : "删除全部购物车的商品",
+        "uid" : "8ce74dd5d3380ad1",
+        "parentUid" : "0ac61fd4bd09c0d63167f0cc57a4b158",
+        "status" : "broken",
+        "time" : {
+          "start" : 1654005611166,
+          "stop" : 1654005669687,
+          "duration" : 58521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ac61fd4bd09c0d63167f0cc57a4b158"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

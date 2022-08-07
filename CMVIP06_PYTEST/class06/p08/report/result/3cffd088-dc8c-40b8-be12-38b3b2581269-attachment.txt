@@ -1,0 +1,14 @@
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+�ļ�����Ŀ¼��������﷨����ȷ��
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/aa1f9262-36e6-4356-95e1-826829e4c050
+[37272:29132:0531/215922.687:ERROR:system_web_app_manager.cc(315)] Exceeded SWA install retry attempts.  Skipping installation, will retry on next OS update or when locale changes.

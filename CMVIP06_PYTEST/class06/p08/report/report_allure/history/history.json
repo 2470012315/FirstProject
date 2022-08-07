@@ -1,0 +1,41 @@
+{
+  "4b92e08fa1ae49c7f26ff30c0e40b553" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ce74dd5d3380ad1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"[id=\"J_SelectAll1\"]\"}\n  (Session info: chrome=102.0.5005.63)",
+      "time" : {
+        "start" : 1654005611166,
+        "stop" : 1654005669687,
+        "duration" : 58521
+      }
+    } ]
+  },
+  "85639410fa5fa3e2d335417b67edfb08" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0b099cc4833af18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654005567824,
+        "stop" : 1654005604446,
+        "duration" : 36622
+      }
+    } ]
+  }
+}

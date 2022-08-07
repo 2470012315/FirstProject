@@ -1,0 +1,31 @@
+[ {
+  "uid" : "ed602a3b42bc110",
+  "name" : "test_case_login2",
+  "time" : {
+    "start" : 1653831588259,
+    "stop" : 1653831588259,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b1ccc89ec7602c17",
+  "name" : "test_cart_login",
+  "time" : {
+    "start" : 1653831588256,
+    "stop" : 1653831588256,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1fea26a77a7ec99f",
+  "name" : "test_case_login3",
+  "time" : {
+    "start" : 1653831594165,
+    "stop" : 1653831596117,
+    "duration" : 1952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

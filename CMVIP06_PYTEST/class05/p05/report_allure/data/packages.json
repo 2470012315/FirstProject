@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_case.test_taobao",
+    "children" : [ {
+      "name" : "test_cart_login",
+      "uid" : "b1ccc89ec7602c17",
+      "parentUid" : "6dc3d1bb64e756d3c3769b7519604308",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653831588256,
+        "stop" : 1653831588256,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_case_login2",
+      "uid" : "ed602a3b42bc110",
+      "parentUid" : "6dc3d1bb64e756d3c3769b7519604308",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1653831588259,
+        "stop" : 1653831588259,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_case_login3",
+      "uid" : "1fea26a77a7ec99f",
+      "parentUid" : "6dc3d1bb64e756d3c3769b7519604308",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653831594165,
+        "stop" : 1653831596117,
+        "duration" : 1952
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "test_case.test_taobao"
+  } ]
+}

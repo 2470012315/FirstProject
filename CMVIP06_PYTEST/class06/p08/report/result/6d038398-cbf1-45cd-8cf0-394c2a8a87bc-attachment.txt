@@ -1,0 +1,16 @@
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+�ļ�����Ŀ¼��������﷨����ȷ��
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+������ͼд��Ĺܵ������ڡ�
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/d8e232bd-cbf3-4631-9479-26de84174a51
+[19344:16464:0531/220006.106:ERROR:system_web_app_manager.cc(315)] Exceeded SWA install retry attempts.  Skipping installation, will retry on next OS update or when locale changes.
+����: �޷���ֹ���� "chrome.exe"���� PID Ϊ 4232��
+ԭ��: �ܾ����ʡ�

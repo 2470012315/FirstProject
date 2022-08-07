@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_taobao",
+      "children" : [ {
+        "name" : "test_cart_login",
+        "uid" : "a42c9b3f0855d477",
+        "parentUid" : "26e581db6988b0f18f99056fe76874de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653828970196,
+          "stop" : 1653828972141,
+          "duration" : 1945
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "26e581db6988b0f18f99056fe76874de"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

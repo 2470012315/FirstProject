@@ -1,0 +1,41 @@
+[ {
+  "uid" : "c86636b04bdb31f6",
+  "name" : "test_dynamic_desc",
+  "time" : {
+    "start" : 1653571842701,
+    "stop" : 1653571842701,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b63d143ee4d6d8bb",
+  "name" : "当断言成功时，用例标题会动态更新",
+  "time" : {
+    "start" : 1653571842823,
+    "stop" : 1653571842823,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74e40300b644919e",
+  "name" : "参数化用例标题：添加1和2",
+  "time" : {
+    "start" : 1653571842831,
+    "stop" : 1653571842831,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a55b363d0c1c396",
+  "name" : "变更标题",
+  "time" : {
+    "start" : 1653571842825,
+    "stop" : 1653571842825,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

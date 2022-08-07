@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_taobao2",
+      "children" : [ {
+        "name" : "淘宝商品订购",
+        "uid" : "c0b099cc4833af18",
+        "parentUid" : "a2fc61ac93387e4745e7227a56a268e6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654005567824,
+          "stop" : 1654005604446,
+          "duration" : 36622
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除全部购物车的商品",
+        "uid" : "8ce74dd5d3380ad1",
+        "parentUid" : "a2fc61ac93387e4745e7227a56a268e6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1654005611166,
+          "stop" : 1654005669687,
+          "duration" : 58521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a2fc61ac93387e4745e7227a56a268e6"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

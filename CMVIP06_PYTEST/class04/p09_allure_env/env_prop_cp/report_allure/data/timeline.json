@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-IT6V6FE6",
+    "children" : [ {
+      "name" : "19904-MainThread",
+      "children" : [ {
+        "name" : "test_case02",
+        "uid" : "cbb7fd84df43723d",
+        "parentUid" : "043ca3fa79c10a958d24f2c67c7f1649",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653574791996,
+          "stop" : 1653574791996,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "043ca3fa79c10a958d24f2c67c7f1649"
+    } ],
+    "uid" : "9a45e8c701c5b72e1afd09e8853cad3f"
+  } ]
+}

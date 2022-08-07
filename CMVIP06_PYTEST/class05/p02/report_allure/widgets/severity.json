@@ -1,0 +1,11 @@
+[ {
+  "uid" : "a42c9b3f0855d477",
+  "name" : "test_cart_login",
+  "time" : {
+    "start" : 1653828970196,
+    "stop" : 1653828972141,
+    "duration" : 1945
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

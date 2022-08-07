@@ -1,0 +1,21 @@
+[ {
+  "uid" : "c0b099cc4833af18",
+  "name" : "淘宝商品订购",
+  "time" : {
+    "start" : 1654005567824,
+    "stop" : 1654005604446,
+    "duration" : 36622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ce74dd5d3380ad1",
+  "name" : "删除全部购物车的商品",
+  "time" : {
+    "start" : 1654005611166,
+    "stop" : 1654005669687,
+    "duration" : 58521
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

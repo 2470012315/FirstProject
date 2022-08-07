@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-IT6V6FE6",
+    "children" : [ {
+      "name" : "25312-MainThread",
+      "children" : [ {
+        "name" : "test_case_login3",
+        "uid" : "b1972af46c907631",
+        "parentUid" : "c1bd5168ada9127c870112f16e430215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653833101760,
+          "stop" : 1653833109801,
+          "duration" : 8041
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_cart_login",
+        "uid" : "85f457d5ebdcfb7c",
+        "parentUid" : "c1bd5168ada9127c870112f16e430215",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1653833095845,
+          "stop" : 1653833095845,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case_pay",
+        "uid" : "f60b30367022258a",
+        "parentUid" : "c1bd5168ada9127c870112f16e430215",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653833116110,
+          "stop" : 1653833129230,
+          "duration" : 13120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_case_login2",
+        "uid" : "bb0970a52e1774ae",
+        "parentUid" : "c1bd5168ada9127c870112f16e430215",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1653833095849,
+          "stop" : 1653833095849,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1bd5168ada9127c870112f16e430215"
+    } ],
+    "uid" : "9a45e8c701c5b72e1afd09e8853cad3f"
+  } ]
+}

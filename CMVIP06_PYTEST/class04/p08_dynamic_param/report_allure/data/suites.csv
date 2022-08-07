@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu May 26 21:30:42 CST 2022","Thu May 26 21:30:42 CST 2022","0","","test_case_01","","","","test_dynamic_desc","简单描述"
+"passed","Thu May 26 21:30:42 CST 2022","Thu May 26 21:30:42 CST 2022","0","","test_case_01","","","","当断言成功时，用例标题会动态更新",""
+"failed","Thu May 26 21:30:42 CST 2022","Thu May 26 21:30:42 CST 2022","0","","test_case_01","","","","参数化用例标题：添加1和2",""
+"passed","Thu May 26 21:30:42 CST 2022","Thu May 26 21:30:42 CST 2022","0","","test_case_01","","","","变更标题",""

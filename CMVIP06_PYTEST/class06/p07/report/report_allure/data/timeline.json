@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-IT6V6FE6",
+    "children" : [ {
+      "name" : "17724-MainThread",
+      "children" : [ {
+        "name" : "淘宝搜索：迈巴赫",
+        "uid" : "d68f0e6cea69c27f",
+        "parentUid" : "7c740499d4189928cdfd5c7e863a3d83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654000607266,
+          "stop" : 1654000612881,
+          "duration" : 5615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c740499d4189928cdfd5c7e863a3d83"
+    } ],
+    "uid" : "9a45e8c701c5b72e1afd09e8853cad3f"
+  } ]
+}

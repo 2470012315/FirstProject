@@ -1,0 +1,21 @@
+[ {
+  "uid" : "ee9c18a5f7e5f5d0",
+  "name" : "test_case_login2",
+  "time" : {
+    "start" : 1653830036309,
+    "stop" : 1653830038289,
+    "duration" : 1980
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba586f0c92b2132a",
+  "name" : "test_cart_login",
+  "time" : {
+    "start" : 1653830030418,
+    "stop" : 1653830030418,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

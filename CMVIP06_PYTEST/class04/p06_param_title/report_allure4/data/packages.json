@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_a_title_new",
+    "children" : [ {
+      "name" : "输入正确账号，密码登陆{'username': 'zz', 'password': '123456'}",
+      "uid" : "185e47ec9f398df4",
+      "parentUid" : "9e244b7cfce257bd2913d04c490df242",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653569679263,
+        "stop" : 1653569679264,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "输入错误账号，密码登陆{'username': 'xu', 'password': '111111'}",
+      "uid" : "4b4f9a94ecaadf82",
+      "parentUid" : "9e244b7cfce257bd2913d04c490df242",
+      "status" : "failed",
+      "time" : {
+        "start" : 1653569679269,
+        "stop" : 1653569679270,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "输入正确账号，密码登陆{'username': 'qs', 'password': '123456'}",
+      "uid" : "a02e30687d4e69b0",
+      "parentUid" : "9e244b7cfce257bd2913d04c490df242",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653569679400,
+        "stop" : 1653569679400,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9e244b7cfce257bd2913d04c490df242"
+  } ]
+}
